@@ -12,27 +12,18 @@
  <div style="display: inline_block"><br>
 
 
-Como um profissional de Front-End apaixonado e comprometido, minha abordagem é moldada pela fluência em diversas linguagens de programação que formam a base do desenvolvimento web. Minha expertise transcende a simples aplicação dessas linguagens; ela se estende para a criação de experiências envolventes e interativas que cativam os usuários. 
+Olá! 👋 Sou Igor um Front-End Developer com uma paixão ardente pela intersecção entre criatividade e tecnologia. Minha jornada é impulsionada por uma busca constante para criar experiências digitais excepcionais que unam beleza e funcionalidade.
 
-**HTML5:** Utilizo o HTML5 como o espinha dorsal das minhas criações. Por meio da estruturação semântica, crio bases sólidas para as interfaces, garantindo acessibilidade e SEO otimizado. Minha familiaridade com as tags mais recentes e recursos de formulários me permite construir experiências dinâmicas e responsivas.
+💼 Experiência Profissional:
+Trago anos de experiência na criação de interfaces web envolventes, combinando habilidades sólidas em HTML5, CSS3 e JavaScript (ES6+). Minha abordagem centrada no usuário é enriquecida pelo meu domínio em Experiência do Usuário (UX), permitindo-me traduzir necessidades complexas em soluções intuitivas.
 
-**CSS3:** Minha proficiência em CSS3 permite-me estilizar de forma criativa os elementos HTML. Utilizando seletores avançados, flexbox, grid e animações CSS, adiciono personalidade e elegância ao design. Meu entendimento das propriedades de layout e capacidade de resolução de problemas garantem uma renderização perfeita em dispositivos variados.
+🎨 UX Design Integrado:
+Além do desenvolvimento Front-End, meu conhecimento em UX Design me permite antecipar as necessidades dos usuários e transformá-las em jornadas fluidas e memoráveis. Acredito que um design bem-sucedido não apenas encanta os olhos, mas também simplifica a interação.
+🔗 Fusão de Habilidades:
+Minha abordagem híbrida, como Front-End Developer e UX Designer, me coloca no ponto ideal para colaborar em projetos multidisciplinares. Acredito na importância da comunicação transparente e da colaboração eficaz, tornando cada etapa do processo um sucesso coletivo.
 
-**JavaScript (ES6+):** Como entusiasta de JavaScript, aproveito seu poder para criar interações dinâmicas. Utilizo ES6+ para escrever código mais legível e eficiente, adotando práticas de modularização e encapsulamento. Meu conhecimento de bibliotecas como React ou Vue me capacita a construir componentes reutilizáveis que mantêm a consistência e melhoram a eficiência no desenvolvimento.
-
-**SASS/LESS:** Através de preprocessadores como SASS e LESS, otimizo a escrita do CSS. Isso inclui o uso de variáveis, mixins e funções, agilizando a estilização e permitindo uma manutenção mais eficaz do código.
-
-**TypeScript:** Para projetos mais complexos, incorporo o TypeScript para adicionar tipagem estática ao JavaScript. Isso reduz erros e melhora a legibilidade do código, garantindo uma base mais sólida para o desenvolvimento contínuo.
-
-**Versionamento (Git):** Uso do Git para controle de versão, permitindo colaboração harmoniosa e acompanhamento preciso das mudanças no código. Isso promove um desenvolvimento ágil e seguro.
-
-**Ferramentas de Build e Automação:** Minha familiaridade com Webpack, Gulp ou Grunt me ajuda a automatizar tarefas repetitivas e a gerenciar dependências, melhorando a eficiência do fluxo de trabalho.
-
-**Integração com APIs:** Incorporo APIs externas de maneira eficaz, seja para buscar dados dinâmicos ou para enriquecer a funcionalidade do aplicativo.
-
-**Responsividade e Performance:** Minhas habilidades abrangem a criação de layouts responsivos e a otimização de desempenho, visando tempos de carregamento rápidos e experiências consistentes em todos os dispositivos.
-
-Em resumo, meu domínio dessas linguagens de programação me capacita a transformar designs em interfaces interativas e envolventes. Minha paixão pela busca contínua de conhecimento me motiva a estar atualizado com as últimas tendências e melhores práticas, garantindo que cada projeto Front-End no qual eu esteja envolvido seja uma experiência de classe mundial.
+🌱 Aprendizado Contínuo:
+A indústria de tecnologia evolui rapidamente e estou comprometido em manter-me atualizado com as tendências mais recentes. Sempre estou explorando novas ferramentas, linguagens e frameworks para enriquecer minha caixa de ferramentas.
 </div>
 <div>
   <img align="center" alt="" height="500" width="1000" src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif">
